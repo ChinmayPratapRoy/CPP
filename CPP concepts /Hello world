@@ -1,0 +1,20 @@
+code 1
+#include <iostream>
+using namespace std;
+int main(){
+
+cout << "hello world";
+return 0;
+
+}
+
+code 2
+
+#include <iostream>
+using namespace std;
+
+int main(){
+
+cout<< "dhoni finishes off in style \n he is the best player in the wold\n";
+
+return 0;
