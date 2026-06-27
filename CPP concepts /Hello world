@@ -18,3 +18,20 @@ int main(){
 cout<< "dhoni finishes off in style \n he is the best player in the wold\n";
 
 return 0;
+
+code 3
+
+#include <iostream>
+using namespace std;
+int main(){
+
+cout<< "my name is chinmay" <<endl;
+cout<< "my college name is jecrc";
+
+
+
+return(0);
+
+}
+
+
