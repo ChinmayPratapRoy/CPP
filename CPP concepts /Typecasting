@@ -1,0 +1,20 @@
+code 1 
+
+#include <iostream>
+using namespace std;
+ int main ()
+ {
+
+     double price = 100.55;
+     int newvalue = (int)price;    //here we can see that.
+
+     cout<< newvalue;
+
+     return(0);
+
+ }
+
+
+ //typecasting to convert big dtatype to small datatype you have to put the that data type in the ()
+
+
