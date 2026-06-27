@@ -1,0 +1,67 @@
+code 1 - float
+
+#include <iostream>
+using namespace std;
+ int main()
+ {
+     float x = 3.414f;
+
+     cout << "the value of pi = " << x;
+     return (0);
+
+ }
+//occupy 4 bites
+
+code 2 boolean
+
+#include <iostream>
+ using namespace std;
+  int main ()
+  {
+       bool safe = false;
+       cout << safe << endl;
+
+       return 0
+    ;
+
+  }
+ // if true then it shows 1 and if it is false then it shows 0
+
+code 3 - character
+
+ #include <iostream>
+ using namespace std;
+  int main ()
+ {
+
+     char grade = 'a';
+     cout << grade << endl;
+     return 0;
+
+ }
+ //code to take char variable
+
+code 4
+
+#include <iostream>
+using namespace std;
+int main ()
+{
+    char grade ='A';
+
+    float value = grade;
+
+    cout << value ;
+    return 0;
+}
+// here we see that the ascii value of A is 65 printed because we used the float datatype
+//here it is a inplicit conviesion.
+
+
+
+
+
+
+
+
+
