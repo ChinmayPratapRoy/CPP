@@ -1,0 +1,15 @@
+//input in c++
+
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    int age;
+    cout << "Enter the age : ";
+    cin >> age;
+    cout << "youe age is " << age << endl;
+
+    return 0;
+
+}
