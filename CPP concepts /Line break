@@ -1,0 +1,34 @@
+code 1
+
+
+/n is used to break lines
+
+#include <iostream>
+using namespace std;
+
+int main(){
+
+cout<< "dhoni finishes off in style \n he is the best player in the wold\n";
+
+return 0;
+
+}
+
+
+code 2
+
+// endl is also used to break line
+
+#include <iostream>
+using namespace std;
+ int main()
+ {
+
+    int age = 45;
+    cout << "my age is=" <<age << endl;
+    return 0;
+
+
+ }
+
+
